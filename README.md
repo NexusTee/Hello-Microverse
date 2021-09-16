@@ -18,11 +18,8 @@ Additional description about the project and its features.
 
 
 
-## Authors
 
-
-👤 **Author1**
-
+👤 **Author**
 - GitHub: [@githubhandle](https://github.com/NexusTee)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/tobi-olaleye)
 
