@@ -11,10 +11,8 @@ Additional description about the project and its features.
 ## Project stack
 
 - html/css
--linters
--github
-
-
+  -linters
+  -github
 
 ## Authors
 
@@ -22,9 +20,6 @@ Additional description about the project and its features.
 
 - GitHub: [@githubhandle](https://github.com/NexusTee)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/tobi-olaleye)
-
-
-
 
 ## 🤝 Contributing
 
@@ -37,9 +32,11 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-my coding partner & standup team 
+
+my coding partner & standup team
 microverse
 mentor
+
 - etc
 
 ## 📝 License
