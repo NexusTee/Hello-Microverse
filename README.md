@@ -20,8 +20,8 @@ Additional description about the project and its features.
 
 
 👤 **Author**
-- GitHub:<a href=https://github.com/NexusTee> NexusTee</a>
-- LinkedIn: https://linkedin.com/in/tobi-olaleye
+- GitHub:<a href=https://github.com/NexusTee>Toebee</a>
+- LinkedIn:<a href= https://linkedin.com/in/tobi-olaleye>Toebee</a>
 
 
 
