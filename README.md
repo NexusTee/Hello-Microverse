@@ -37,9 +37,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
--my coding partner & standup team
--microverse
--mentor
+- my coding partner & standup team
+- microverse
+- mentor
 
 ## 📝 License
 
